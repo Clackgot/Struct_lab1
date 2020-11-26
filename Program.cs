@@ -35,7 +35,7 @@ namespace Struct_lab1
 			int result = gcd(a, b, ref x, ref y);
 			Console.WriteLine("{0} {1} {2}", result, x, y);
 			Console.WriteLine("ФИТУ 2-5 Леднев Евгений");
-
+			Console.ReadKey();
         }
     }
 }
